@@ -12,4 +12,4 @@ This project is inspired by the video tutorial of Geeks for Geeks https://youtu.
 Libraries used : Retrofit2, Picasso
 
 
-Download the App: https://github.com/saikiaDeep/QuickBytes/blob/master/QuickBytes.apk
+Download the App: https://drive.google.com/file/d/1P-hgogqP7tpnozx4Zep5-iaiNGhnWkhs/view?usp=sharing
